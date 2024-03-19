@@ -1,6 +1,6 @@
 # HDI_4DWP_DisplayFormulas
 
-4D Write Pro Display Formulas as F (4D v19 R7) 
+[4D Write Pro](https://us.4d.com/4D-write-pro) Display Formulas as F (4D v19 R7) 
 
 Find more information on the [blog post](https://blog.4d.com/4d-write-pro-user-friendly-display-of-formulas/).
 
